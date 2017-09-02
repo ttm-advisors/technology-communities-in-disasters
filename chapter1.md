@@ -1,3 +1,33 @@
-# First Chapter
+# Before the Storm
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Disasters come in two main forms - those that are a function of "Mother Nature" and those that are man made. Of these some types have a degree of predictability and others are nearly impossible to predict. 
+
+* Predictability: The likiihood that such and event will happen at least once in the next 25 years in a particular geography
+* Notice: The amount of time, if any, in advance that such an event happening can be predicted
+
+
+
+### Mother Nature
+
+* Hurricanes and 
+  * Predictability: High. Hurricane and winter storm prone areas are well known
+  * Notice: &lt;Two Weeks
+  * Examples: Superstorm Sandy, Hurricane Harvey, Northeast United States Ice Storm of 1998
+* Earthquakes:
+  * Predictability: Moderate to High
+  * Notice: None
+* Tornado Outbreaks
+
+  * Predictability: Moderate
+  * Notices: 72 hours to almost none
+
+* Wildfires
+
+* Large Scale Winter Storms
+
+### 
+
+### Mother Nature
+
+
+
