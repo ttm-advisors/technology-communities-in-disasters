@@ -1,11 +1,9 @@
 # Before the Storm
 
-Disasters come in two main forms - those that are a function of "Mother Nature" and those that are man made. Of these some types have a degree of predictability and others are nearly impossible to predict. 
+Disasters come in two main forms - "Acts of God" and man made. Of these some types have a degree of predictability and others are nearly impossible to predict.
 
 * Predictability: The likiihood that such and event will happen at least once in the next 25 years in a particular geography
 * Notice: The amount of time, if any, in advance that such an event happening can be predicted
-
-
 
 ### Mother Nature
 
